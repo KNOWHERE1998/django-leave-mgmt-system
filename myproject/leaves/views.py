@@ -16,3 +16,4 @@ def home(request):
     	'home.html',
     	{ 'user': request.user }
     )
+
